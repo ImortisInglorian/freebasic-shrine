@@ -1,5 +1,6 @@
 libwebp: https://www.freebasic.net/forum/viewtopic.php?t=33096
 FBImage: https://www.freebasic.net/forum/viewtopic.php?t=24105
+FBSound: https://freebasic.net/forum/viewtopic.php?t=28905
 OpenCL: https://www.freebasic.net/forum/viewtopic.php?t=24494
 assimp: https://www.freebasic.net/forum/viewtopic.php?t=22798
 SNC: https://www.freebasic.net/forum/viewtopic.php?t=23421
